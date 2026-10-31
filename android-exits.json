@@ -1,0 +1,106 @@
+{
+  "collected_at_ms": 1793456162118,
+  "collection_status": "ok",
+  "device": {
+    "abi": "aarch64",
+    "hardware": "qcom",
+    "manufacturer": "samsung",
+    "model": "SM-S901E",
+    "sdk": 36
+  },
+  "exits": [
+    {
+      "description": "[REMOVE TASK] remove task",
+      "importance": 400,
+      "pid": 24730,
+      "pss_kib": 0,
+      "reason": 10,
+      "reason_name": "user_requested",
+      "rss_kib": 1462400,
+      "status": 0,
+      "timestamp_ms": 1793452153956
+    },
+    {
+      "description": "[REMOVE TASK] remove task",
+      "importance": 400,
+      "pid": 22574,
+      "pss_kib": 0,
+      "reason": 3,
+      "reason_name": "low_memory",
+      "rss_kib": 726368,
+      "status": 0,
+      "timestamp_ms": 1793452107698
+    },
+    {
+      "description": "",
+      "importance": 400,
+      "pid": 18603,
+      "pss_kib": 0,
+      "reason": 3,
+      "reason_name": "low_memory",
+      "rss_kib": 57244,
+      "status": 0,
+      "timestamp_ms": 1793451881901
+    },
+    {
+      "description": "",
+      "importance": 400,
+      "pid": 25397,
+      "pss_kib": 0,
+      "reason": 3,
+      "reason_name": "low_memory",
+      "rss_kib": 353244,
+      "status": 0,
+      "timestamp_ms": 1793450868753
+    },
+    {
+      "description": "AL_Kill : over 1 slots",
+      "importance": 400,
+      "pid": 17226,
+      "pss_kib": 0,
+      "reason": 13,
+      "reason_name": "other",
+      "rss_kib": 0,
+      "status": 0,
+      "timestamp_ms": 1793450673487
+    },
+    {
+      "description": "[REMOVE TASK] remove task",
+      "importance": 400,
+      "pid": 14576,
+      "pss_kib": 0,
+      "reason": 10,
+      "reason_name": "user_requested",
+      "rss_kib": 1651028,
+      "status": 0,
+      "timestamp_ms": 1793450670020
+    },
+    {
+      "description": "[REMOVE TASK] remove task",
+      "importance": 400,
+      "pid": 14173,
+      "pss_kib": 0,
+      "reason": 10,
+      "reason_name": "user_requested",
+      "rss_kib": 0,
+      "status": 0,
+      "timestamp_ms": 1793450596497
+    },
+    {
+      "description": "AL_Kill : over 1 slots",
+      "importance": 400,
+      "pid": 11349,
+      "pss_kib": 0,
+      "reason": 13,
+      "reason_name": "other",
+      "rss_kib": 0,
+      "status": 0,
+      "timestamp_ms": 1793450430814
+    }
+  ],
+  "memory_note": "PSS/RSS are last OS samples in KiB; zero may mean no sample, not zero memory use.",
+  "note": "Exit reasons are OS observations, not proof of the root cause. No trace can mean the OS did not retain one. Trace files are bounded raw system data; review before sharing.",
+  "schema": 2,
+  "source_commit": "86e881b6940f",
+  "version": "0.7.6"
+}

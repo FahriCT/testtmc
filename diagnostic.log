@@ -1,0 +1,252 @@
+1793456162119 [WARN] jni::wrapper::objects::global_ref: Dropping a GlobalRef in a detached thread. Fix your code if this message appears frequently (see the GlobalRef docs).
+1793456162281 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Vulkan, IntegratedGpu)
+1793456162282 [INFO] horizon_client_render::gfx: Horizon renderer: requesting the device (driver Qualcomm Technologies Inc. Adreno Vulkan Driver Driver Build: 0c393b63cf, I94e2bd5684, 1746191168
+Date: 05/02/25
+Compiler Version: EV031.36.08.33
+Driver Branch:) with features [TEXTURE_FORMAT_16BIT_NORM | TEXTURE_ADAPTER_SPECIFIC_FORMAT_FEATURES | TIMESTAMP_QUERY_INSIDE_ENCODERS | TIMESTAMP_QUERY | RG11B10UFLOAT_RENDERABLE | FLOAT32_BLENDABLE] and the adapter's limits (buffers up to 1073741824 bytes, storage bindings up to 134217728 bytes, 2048 texture layers)
+1793456162342 [INFO] horizon_client_render::gfx: Horizon renderer: device ready; configuring the surface (2340x1080 Rgba8Unorm, Mailbox)
+1793456162360 [INFO] horizon_client_render::gfx: Horizon renderer: HDR output HDR10 (PQ)
+1793456162360 [INFO] horizon_client_render::gfx: Horizon renderer: creating the pipelines
+1793456163015 [INFO] horizon_client_render::gfx: Horizon renderer: pipelines ready (multi-draw off, occlusion culling off, GPU timer on)
+1793456163025 [INFO] horizon_client_render::gfx: Horizon renderer: acquiring the first frame
+1793456163029 [INFO] horizon_client_render::gfx: Horizon renderer: submitting the first frame
+1793456163032 [INFO] horizon_client_render::gfx: Horizon renderer: presenting the first frame
+1793456179602 [INFO] horizon_client_render::audio: Horizon: audio output default (44100 Hz, 2 channels, f32)
+1793456179874 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456179874 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xcd002f70
+1793456201884 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Vulkan, IntegratedGpu)
+1793456201884 [INFO] horizon_client_render::gfx: Horizon renderer: requesting the device (driver Qualcomm Technologies Inc. Adreno Vulkan Driver Driver Build: 0c393b63cf, I94e2bd5684, 1746191168
+Date: 05/02/25
+Compiler Version: EV031.36.08.33
+Driver Branch:) with features [TEXTURE_FORMAT_16BIT_NORM | TEXTURE_ADAPTER_SPECIFIC_FORMAT_FEATURES | TIMESTAMP_QUERY_INSIDE_ENCODERS | TIMESTAMP_QUERY | RG11B10UFLOAT_RENDERABLE | FLOAT32_BLENDABLE] and the adapter's limits (buffers up to 1073741824 bytes, storage bindings up to 134217728 bytes, 2048 texture layers)
+1793456201940 [INFO] horizon_client_render::gfx: Horizon renderer: device ready; configuring the surface (2340x1080 Rgba8Unorm, Mailbox)
+1793456201947 [INFO] horizon_client_render::gfx: Horizon renderer: HDR output HDR10 (PQ)
+1793456201947 [INFO] horizon_client_render::gfx: Horizon renderer: creating the pipelines
+1793456202557 [INFO] horizon_android::game: Horizon: UI bundle ready after 727 ms
+1793456202654 [INFO] horizon_client_render::gfx: Horizon renderer: pipelines ready (multi-draw off, occlusion culling off, GPU timer on)
+1793456202655 [INFO] horizon_client_render::gfx: Horizon renderer: acquiring the first frame
+1793456202658 [INFO] horizon_client_render::gfx: Horizon renderer: submitting the first frame
+1793456202660 [INFO] horizon_client_render::gfx: Horizon renderer: presenting the first frame
+1793456202661 [INFO] horizon_android::game: Horizon: loading screen shown after 832 ms
+1793456202661 [INFO] horizon_android::game: Horizon: loading the title artwork after 832 ms
+1793456202809 [INFO] horizon_client_render::audio: Horizon: audio output default (44100 Hz, 2 channels, f32)
+1793456203132 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Vulkan, IntegratedGpu)
+1793456204408 [INFO] horizon_android::game: load assets: 2.58s
+1793456205287 [INFO] horizon_android::game: load facts: 3.46s
+1793456205287 [INFO] horizon_android::game: load biomes+env: 3.46s
+1793456206575 [INFO] horizon_android::game: load pack tables: 4.75s
+1793456206991 [INFO] horizon_android::game: load collision+motion: 5.16s
+1793456206991 [INFO] horizon_android::game: Horizon: core-ready after 5162 ms
+1793456207298 [INFO] horizon_android::game: Horizon: handoff CPU resources prepared on worker in 306 ms
+1793456207364 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Vulkan, IntegratedGpu)
+1793456208185 [INFO] horizon_android::game: Horizon: background renderer prepared in 821 ms
+1793456208214 [INFO] horizon_android::game: load items: 6.38s
+1793456208289 [INFO] horizon_android::game: Horizon: world renderer ready after 6460 ms
+1793456208351 [INFO] horizon_android::game: Horizon: startup handoff 86 ms (renderer 24 ms, start_game 60 ms)
+1793456208412 [INFO] horizon_android::game: Horizon: first frame after 120 ms
+1793456208625 [INFO] horizon_android::game: Horizon: resources loaded in 6.8s; 35723 block states, 1658 items, 67 biomes; 6 worker threads
+1793456209191 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456209191 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xcd002f70
+1793456209633 [INFO] horizon_android::game: Horizon: slow frame 275.4 ms, cpu 64.1 ms (1 ticks): renderer 5.3, submit 3.4, encode 1.0
+1793456210006 [INFO] horizon_android::game: Horizon: rest-ready after 8176 ms
+1793456210357 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456210357 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x3b5b84ce
+1793456210689 [INFO] horizon_android::game: Horizon: slow frame 335.3 ms, cpu 72.3 ms (1 ticks): renderer 8.0, submit 5.4, encode 1.2
+1793456210851 [INFO] horizon_client::vanillagen: Horizon: worldgen data loaded in 809.629895ms
+1793456211647 [INFO] horizon_android::game: Horizon: slow frame 286.8 ms, cpu 63.7 ms (1 ticks): renderer 3.0, encode 1.2, submit 0.7
+1793456212689 [INFO] horizon_android::game: Horizon: slow frame 337.3 ms, cpu 80.1 ms (1 ticks): renderer 2.9, encode 1.1, submit 0.7
+1793456213653 [INFO] horizon_android::game: Horizon: slow frame 290.5 ms, cpu 66.6 ms (1 ticks): renderer 3.6, encode 1.2, submit 1.1
+1793456214612 [INFO] horizon_android::game: Horizon: slow frame 249.7 ms, cpu 53.2 ms (1 ticks): renderer 3.9, encode 1.4, submit 1.0
+1793456215660 [INFO] horizon_android::game: Horizon: slow frame 307.3 ms, cpu 71.5 ms (1 ticks): renderer 2.5, encode 0.9, submit 0.6
+1793456216744 [INFO] horizon_android::game: Horizon: slow frame 377.2 ms, cpu 86.9 ms (1 ticks): renderer 4.2, submit 1.4, encode 1.4
+1793456217529 [INFO] horizon_android::game::growth: Horizon: live features ready in 69.359896ms
+1793456217598 [INFO] horizon_android::game: Horizon: slow frame 231.4 ms, cpu 49.6 ms (1 ticks): 
+1793456218699 [INFO] horizon_android::game: Horizon: slow frame 328.0 ms, cpu 68.6 ms (1 ticks): renderer 6.2/4.4, submit 2.8/1.5, encode 2.0/1.6
+1793456218812 [INFO] horizon_android::game::levels: Horizon: slow tick 147.7 ms, cpu 121.3 ms (1 mobs): tick_mobs 74.5/65.7, streaming 34.3/25.6, tick_lan 25.3/21.7, tick_hud 23.3/19.9, tick_sculk_entities 6.0, postprocess_chunks 5.1/1.3, tick_block_entities 4.5/3.9, tick_local_hand 2.7/0.5, tick_boats 1.3/0.0, tick_effects 0.6/0.1, with_entities 0.6
+1793456219902 [INFO] horizon_android::game: Horizon: slow frame 495.9 ms, cpu 205.3 ms (1 ticks): entity_geometry 107.7, renderer 48.0/36.3, clouds 23.9, encode 7.4/4.4, submit 2.0, tick 1.6, update_world 1.2, upload 0.9
+1793456219946 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456219946 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xbd6dacf0
+1793456220129 [INFO] horizon_android::game: Horizon: slow frame 69.2 ms, cpu 54.5 ms (1 ticks): renderer 67.6/51.7, encode 2.1, submit 1.1, update_world 1.0, tick 0.9, upload 0.8
+1793456220763 [INFO] horizon_android::game: Horizon: slow frame 353.6 ms, cpu 77.1 ms (1 ticks): renderer 5.0, tick 2.4/1.9, submit 2.3, encode 1.5
+1793456221368 [INFO] horizon_android::game::levels: Horizon: slow tick 52.6 ms, cpu 18.3 ms (106 mobs): tick_mobs 23.6/11.6, tick_blocks 10.7/1.8, tick_lan 9.1/2.0, streaming 5.0/3.4, postprocess_chunks 4.8/1.4, lan_chunks 0.8/0.2
+1793456221923 [INFO] horizon_android::game: Horizon: slow frame 516.1 ms, cpu 77.5 ms (1 ticks): tick 5.1/2.3, renderer 3.0, encode 1.2, submit 0.7
+1793456221930 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456221930 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x1dabf1bc
+1793456221938 [INFO] horizon_android::game::levels: Horizon: slow tick 74.5 ms, cpu 22.8 ms (129 mobs): tick_mobs 56.0/14.4, streaming 14.1/11.5, tick_lan 10.0/3.8, tick_blocks 3.8/2.3, tick_block_entities 1.8/0.2, entity_portals 0.6/0.4
+1793456221989 [INFO] horizon_android::game::levels: Horizon: slow tick 50.8 ms, cpu 21.5 ms (125 mobs): tick_mobs 30.1/10.5, tick_blocks 9.5/3.1, tick_lan 4.7/3.6, streaming 3.2/2.5, lt_block 0.9, entity_portals 0.7/0.4, tick_sculk_entities 0.6/0.3
+1793456222215 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456222215 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xa3db80de
+1793456222666 [INFO] horizon_android::game::levels: Horizon: slow tick 52.4 ms, cpu 32.5 ms (163 mobs): tick_mobs 22.8/13.5, streaming 19.0/10.0, tick_lan 12.6/8.8, lan_chunks 9.4/6.5, tick_blocks 8.2/4.8, postprocess_chunks 3.4/2.2, tick_block_entity_anims 1.2/0.9
+1793456222762 [INFO] horizon_android::game: Horizon: slow frame 355.8 ms, cpu 62.9 ms (1 ticks): tick 6.9/1.1, renderer 3.1, update_world 2.4/1.8, encode 1.4, upload 0.9, submit 0.5, entity_geometry 0.5
+1793456222778 [INFO] horizon_android::game::levels: Horizon: slow tick 60.5 ms, cpu 27.6 ms (175 mobs): tick_lan 32.1/6.1, lan_chunks 28.2/2.2, streaming 27.5/14.6, tick_mobs 12.9, tick_blocks 9.8/4.5, postprocess_chunks 1.0/0.9, tick_sculk_entities 0.8/0.4
+1793456223118 [INFO] horizon_android::game::levels: Horizon: slow tick 55.1 ms, cpu 19.5 ms (176 mobs): streaming 18.5/8.9, postprocess_chunks 15.5/3.8, tick_blocks 13.1/3.5, tick_mobs 12.7/6.6, tick_lan 11.5/3.6, lan_chunks 10.2/2.4, lt_columns 2.6/0.1, lt_block 2.1/1.7
+1793456223432 [INFO] horizon_android::game::levels: Horizon: slow tick 63.4 ms, cpu 42.9 ms (192 mobs): tick_mobs 26.7/17.8, streaming 16.2/12.8, tick_lan 13.2/10.2, tick_blocks 11.6/7.4, lan_chunks 5.8/4.9, postprocess_chunks 4.8/4.1, tick_block_entities 2.0/0.6, tick_sculk_entities 0.6/0.5
+1793456223486 [INFO] horizon_android::game::levels: Horizon: slow tick 53.7 ms, cpu 32.5 ms (192 mobs): tick_mobs 32.7/16.1, tick_blocks 7.8/5.2, streaming 4.4/3.4, tick_lan 4.4/3.9, postprocess_chunks 2.4/1.9, lt_block 1.6/1.1, lt_columns 0.6/0.5
+1793456223573 [INFO] horizon_android::game: Horizon: slow frame 686.2 ms, cpu 382.4 ms (0 ticks): update_world 682.5/377.7, upload 682.1/377.5, upload_vertex_alloc 681.6/377.0, arena_buffer_create 681.6/376.9, renderer 3.1, encode 1.4, entity_geometry 0.7, submit 0.6
+1793456223644 [INFO] horizon_android::game::levels: Horizon: slow tick 109.7 ms, cpu 41.9 ms (196 mobs): tick_lan 41.5/6.8, tick_mobs 39.9/16.6, tick_blocks 8.0/4.3, lan_chunks 7.5/1.8, streaming 3.2, lt_block 0.7, postprocess_chunks 0.7, tick_sculk_entities 0.5
+1793456223921 [INFO] horizon_android::game::levels: Horizon: slow tick 56.3 ms, cpu 26.9 ms (200 mobs): tick_mobs 35.1/15.6, tick_blocks 9.8/3.7, streaming 5.9/4.2, tick_lan 4.0, tick_sculk_entities 2.1/0.6, lt_block 0.7, postprocess_chunks 0.6, tick_hud 0.6/0.1, tick_block_entities 0.5/0.3
+1793456224225 [INFO] horizon_android::game::levels: Horizon: slow tick 55.7 ms, cpu 22.1 ms (204 mobs): postprocess_chunks 36.3/8.9, streaming 14.3/12.3, tick_mobs 11.4/5.3, tick_blocks 4.2, tick_lan 1.3
+1793456224571 [INFO] horizon_android::game::levels: Horizon: slow tick 54.1 ms, cpu 28.4 ms (211 mobs): tick_mobs 32.5/16.0, streaming 15.2/5.4, tick_blocks 9.7/3.9, tick_lan 8.2/5.0
+1793456224660 [INFO] horizon_android::game: Horizon: slow frame 1060.3 ms, cpu 62.5 ms (1 ticks): tick 7.7/1.1, update_world 5.5/1.4, streaming 4.7/0.6, renderer 3.2, encode 1.5/1.3, entity_geometry 0.5
+1793456225120 [INFO] horizon_android::game: Horizon: slow frame 87.6 ms, cpu 20.9 ms (1 ticks): tick 64.3/2.2, update_world 17.2/12.9, streaming 12.1/8.8, renderer 4.9/4.2, lt_block 3.7/2.9, lt_sky 3.1/1.6, encode 2.8/2.0, upload 2.0/1.5, lt_sources 1.9/0.8, lt_columns 1.6, entity_geometry 0.9, upload_vertex_stage 0.8, submit 0.7
+1793456225144 [INFO] horizon_android::game::levels: Horizon: slow tick 80.9 ms, cpu 44.7 ms (231 mobs): tick_mobs 41.9/17.3, tick_lan 19.2/13.7, streaming 17.2/13.1, lan_chunks 13.9/8.6, tick_blocks 7.9/5.2, postprocess_chunks 6.8/4.7, tick_sculk_entities 1.9/1.0, tick_block_entities 0.6/0.5
+1793456225224 [INFO] horizon_android::game::levels: Horizon: slow tick 79.7 ms, cpu 40.8 ms (231 mobs): tick_mobs 46.2/19.2, tick_lan 13.1/10.1, tick_blocks 7.3/4.4, streaming 7.0/2.9, lan_chunks 5.8/4.3, postprocess_chunks 3.7/1.9, lt_block 2.4/0.6, lt_columns 0.6/0.3, tick_block_entities 0.6, entity_portals 0.5
+1793456225417 [INFO] horizon_android::game: Horizon: slow frame 258.5 ms, cpu 45.5 ms (1 ticks): renderer 8.8/4.3, update_world 7.8/2.4, streaming 5.4/0.2, submit 5.4/1.0, upload 2.0, encode 2.0, upload_vertex_stage 1.1, tick 0.8, entity_geometry 0.6
+1793456225463 [INFO] horizon_android::game::levels: Horizon: slow tick 99.4 ms, cpu 26.6 ms (231 mobs): tick_lan 67.1/4.4, lan_chunks 62.7/0.7, streaming 26.1/16.4, tick_mobs 19.8/13.7, tick_blocks 6.2/4.0, postprocess_chunks 3.9/2.2, entity_portals 0.5
+1793456225845 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456225846 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x2c146bab
+1793456225860 [INFO] horizon_android::game: Horizon: slow frame 441.0 ms, cpu 263.9 ms (5 ticks): update_world 417.0/238.6, upload 415.9/237.5, upload_vertex_alloc 414.7/236.3, arena_buffer_create 414.5/236.2, renderer 12.7, tick 9.2, encode 6.8, submit 2.6, entity_geometry 2.5, upload_vertex_stage 0.7
+1793456225925 [INFO] horizon_android::game::levels: Horizon: slow tick 60.3 ms, cpu 32.7 ms (234 mobs): tick_lan 27.1/10.3, tick_mobs 20.9/14.1, lan_chunks 20.6/5.2, streaming 6.0/3.2, tick_blocks 5.5/3.7, postprocess_chunks 1.7/1.2, lt_columns 1.5/0.3, tick_sculk_entities 0.5, entity_portals 0.5
+1793456226429 [INFO] horizon_android::game: Horizon: slow frame 269.8 ms, cpu 45.6 ms (1 ticks): renderer 4.6/3.5, encode 1.6, update_world 1.5, submit 1.4/0.8, upload 1.2, tick 1.1, upload_vertex_stage 0.6, entity_geometry 0.6
+1793456226528 [INFO] horizon_android::game::levels: Horizon: slow tick 65.1 ms, cpu 11.8 ms (236 mobs): entity_portals 29.1/0.2, tick_sculk_entities 14.2/0.4, tick_blocks 10.5/2.3, tick_mobs 6.9/4.7, streaming 3.9, tick_lan 2.8, lan_chunks 0.9, postprocess_chunks 0.8
+1793456226766 [INFO] horizon_android::game::levels: Horizon: slow tick 53.1 ms, cpu 30.0 ms (245 mobs): tick_mobs 26.1/15.4, streaming 19.6/14.5, tick_lan 16.2/6.7, lan_chunks 6.9/1.6, tick_blocks 4.3/3.7, postprocess_chunks 4.1/1.9, entity_portals 0.6
+1793456226872 [INFO] horizon_android::game::levels: Horizon: slow tick 51.6 ms, cpu 32.6 ms (249 mobs): streaming 23.2/15.5, tick_mobs 22.6/14.7, tick_lan 11.6/7.2, postprocess_chunks 6.3/3.7, tick_blocks 5.9/3.5, lan_chunks 1.5, tick_sculk_entities 0.7, tick_block_entities 0.5
+1793456227088 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456227088 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x25c8d237
+1793456227454 [INFO] horizon_android::game: Horizon: slow frame 299.6 ms, cpu 49.2 ms (1 ticks): tick 5.1/1.3, renderer 3.5, encode 1.2, submit 1.1/1.0, entity_geometry 0.7
+1793456228083 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456228083 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xbcdc67ca
+1793456228400 [INFO] horizon_android::game: Horizon: slow frame 247.7 ms, cpu 58.8 ms (1 ticks): renderer 4.9, encode 2.1, tick 1.2, submit 1.2, update_world 0.5
+1793456229484 [INFO] horizon_android::game: Horizon: slow frame 327.7 ms, cpu 79.4 ms (1 ticks): renderer 4.6, encode 1.9, tick 1.5, submit 1.0
+1793456229490 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456229490 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xfd5ee0f9
+1793456230454 [INFO] horizon_android::game: Horizon: slow frame 291.9 ms, cpu 68.2 ms (1 ticks): renderer 4.1, encode 1.6, tick 1.0, submit 1.0, entity_geometry 0.6
+1793456231449 [INFO] horizon_android::game: Horizon: slow frame 297.5 ms, cpu 69.8 ms (1 ticks): renderer 4.1, encode 1.7, tick 1.0, submit 0.9, entity_geometry 0.6
+1793456231509 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456231509 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x42016f1e
+1793456232474 [INFO] horizon_android::game: Horizon: slow frame 311.3 ms, cpu 68.1 ms (1 ticks): renderer 10.6/3.7, submit 7.8/0.9, encode 1.4, tick 1.0
+1793456233494 [INFO] horizon_android::game: Horizon: slow frame 338.6 ms, cpu 67.3 ms (1 ticks): renderer 4.0, encode 1.5, tick 1.1, submit 0.8
+1793456234560 [INFO] horizon_android::game: Horizon: slow frame 401.0 ms, cpu 86.7 ms (1 ticks): renderer 3.3, encode 1.3, tick 1.1, submit 0.8, entity_geometry 0.6
+1793456234584 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456234585 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x75b9b27
+1793456235011 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456235011 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x7ceca852
+1793456235439 [INFO] horizon_android::game: Horizon: slow frame 287.7 ms, cpu 67.7 ms (1 ticks): renderer 3.5, encode 1.3, submit 1.0, tick 1.0, entity_geometry 0.7
+1793456235767 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456235767 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x5add74ad
+1793456236499 [INFO] horizon_android::game: Horizon: slow frame 336.3 ms, cpu 82.1 ms (1 ticks): renderer 4.3, encode 1.5, tick 1.4, submit 1.2, entity_geometry 0.7
+1793456237457 [INFO] horizon_android::game: Horizon: slow frame 301.9 ms, cpu 72.5 ms (1 ticks): renderer 4.5, encode 1.8, tick 1.2, submit 1.1, entity_geometry 0.8
+1793456238448 [INFO] horizon_android::game: Horizon: slow frame 291.8 ms, cpu 64.1 ms (1 ticks): renderer 4.3, encode 1.8, tick 1.0, submit 1.0, update_world 0.8, upload 0.7, entity_geometry 0.6, upload_vertex_stage 0.5
+1793456238884 [INFO] horizon_android::game: Horizon: slow frame 356.3 ms, cpu 273.1 ms (0 ticks): update_world 353.1/269.2, upload 352.9/269.1, upload_vertex_alloc 352.6/268.8, arena_buffer_create 352.6/268.8, renderer 2.9, encode 1.0, submit 0.9
+1793456239415 [INFO] horizon_android::game: Horizon: slow frame 257.1 ms, cpu 58.6 ms (1 ticks): renderer 3.3, encode 1.3, tick 1.1, submit 0.8, entity_geometry 0.5
+1793456239963 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456239963 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x2d71a8cd
+1793456240486 [INFO] horizon_android::game: Horizon: slow frame 335.2 ms, cpu 82.8 ms (1 ticks): renderer 4.1, encode 1.6, tick 1.5, submit 1.1
+1793456241354 [INFO] horizon_android::game: Horizon: slow frame 199.6 ms, cpu 42.3 ms (1 ticks): renderer 3.6, encode 1.3, tick 1.2, submit 1.1
+1793456242438 [INFO] horizon_android::game: Horizon: slow frame 275.3 ms, cpu 51.7 ms (1 ticks): renderer 6.4/3.4, encode 4.3/1.5, submit 0.9/0.8, tick 0.9
+1793456242478 [INFO] horizon_android::game::levels: Horizon: slow tick 58.0 ms, cpu 26.5 ms (299 mobs): tick_mobs 28.1/14.1, tick_lan 19.1/6.1, tick_blocks 7.5/3.3, tick_sculk_entities 0.7, entity_portals 0.5
+1793456243165 [INFO] horizon_android::game::levels: Horizon: slow tick 51.8 ms, cpu 31.5 ms (299 mobs): tick_mobs 30.1/16.8, tick_lan 7.0/5.9, tick_blocks 5.2/3.7, tick_block_entities 2.4, tick_sculk_entities 0.7, entity_portals 0.6
+1793456243500 [INFO] horizon_android::game: Horizon: slow frame 333.3 ms, cpu 55.0 ms (1 ticks): renderer 3.3, tick 2.1, encode 1.2, submit 0.8, update_world 0.7
+1793456244409 [INFO] horizon_android::game: Horizon: slow frame 243.2 ms, cpu 45.0 ms (1 ticks): renderer 3.2, encode 1.2, tick 0.9, submit 0.8, entity_geometry 0.5
+1793456245392 [INFO] horizon_android::game: Horizon: slow frame 237.0 ms, cpu 43.5 ms (1 ticks): renderer 3.2, update_world 2.4/0.4, streaming 2.2/0.3, tick 1.4/0.9, encode 1.3, submit 0.8
+1793456245612 [INFO] horizon_android::game::integrated: Saving and pausing game...
+1793456246496 [INFO] horizon_android::game: Horizon: slow frame 340.1 ms, cpu 44.0 ms (1 ticks): renderer 11.7/4.8, submit 8.4/1.8, encode 1.7, entity_geometry 0.6
+1793456247489 [INFO] horizon_android::game: Horizon: slow frame 328.5 ms, cpu 73.5 ms (1 ticks): renderer 5.0, encode 1.8, submit 1.7, hud 0.8, entity_geometry 0.7
+1793456248471 [INFO] horizon_android::game: Horizon: slow frame 305.7 ms, cpu 69.8 ms (1 ticks): renderer 4.3, submit 1.5, encode 1.5, hud 0.7, entity_geometry 0.5
+1793456249508 [INFO] horizon_android::game: Horizon: slow frame 338.3 ms, cpu 81.6 ms (1 ticks): renderer 5.6, encode 1.9, submit 1.8, entity_geometry 0.9
+1793456249578 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456249579 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x3b5b84ce
+1793456250622 [INFO] horizon_android::game: Horizon: slow frame 466.4 ms, cpu 63.6 ms (1 ticks): update_world 13.4/0.6, renderer 5.5/4.2, upload 2.8/0.1, encode 2.7/1.7, hud 2.3/1.0, submit 1.4/1.2, entity_geometry 0.8
+1793456250830 [INFO] horizon_android::game: Horizon: slow frame 59.7 ms, cpu 31.8 ms (1 ticks): renderer 43.9/14.6, encode 16.6/8.8, submit 13.1/2.3, entity_geometry 12.9/11.0, update_world 4.7, upload 2.0, hud 1.4/0.9, upload_vertex_stage 1.0, streaming 0.7
+1793456251463 [INFO] horizon_android::game: Horizon: slow frame 284.7 ms, cpu 53.8 ms (1 ticks): renderer 4.0, update_world 2.8, upload 2.0, encode 1.9, entity_geometry 1.7, upload_vertex_stage 0.9, submit 0.8
+1793456252386 [INFO] horizon_android::game: Horizon: slow frame 219.6 ms, cpu 47.5 ms (1 ticks): renderer 4.1, update_world 2.5, upload 2.0, encode 1.6, submit 1.3, upload_vertex_stage 1.1
+1793456253483 [INFO] horizon_android::game: Horizon: slow frame 324.0 ms, cpu 77.9 ms (1 ticks): renderer 4.8, submit 1.9, encode 1.5, hud 0.8
+1793456254455 [INFO] horizon_android::game: Horizon: slow frame 293.5 ms, cpu 70.7 ms (1 ticks): renderer 5.3, submit 2.2, encode 1.7
+1793456255448 [INFO] horizon_android::game: Horizon: slow frame 288.6 ms, cpu 68.3 ms (1 ticks): renderer 4.7, submit 1.7, encode 1.6
+1793456256554 [INFO] horizon_android::game: Horizon: slow frame 386.4 ms, cpu 96.4 ms (1 ticks): renderer 4.9, submit 1.8, encode 1.8
+1793456256612 [INFO] horizon_android::game::integrated: Changing view distance to 8, from 12
+1793456256614 [INFO] horizon_android::game::integrated: Changing simulation distance to 6, from 8
+1793456257481 [INFO] horizon_android::game: Horizon: slow frame 355.4 ms, cpu 88.2 ms (1 ticks): renderer 4.6, encode 1.8, submit 1.4, update_world 1.2/0.4, streaming 1.1/0.3, tick 1.0
+1793456258439 [INFO] horizon_android::game: Horizon: slow frame 309.7 ms, cpu 73.9 ms (1 ticks): renderer 4.0, encode 1.6, tick 1.3, submit 1.1
+1793456259338 [INFO] horizon_android::game: Horizon: slow frame 214.4 ms, cpu 45.9 ms (1 ticks): renderer 2.8, update_world 1.7/0.6, streaming 1.5/0.4, encode 1.2, tick 1.0, submit 0.7
+1793456260403 [INFO] horizon_android::game: Horizon: slow frame 278.4 ms, cpu 54.8 ms (1 ticks): renderer 3.2, encode 1.4, tick 0.6, submit 0.6
+1793456261419 [INFO] horizon_android::game: Horizon: slow frame 291.1 ms, cpu 70.3 ms (1 ticks): renderer 4.3, submit 1.8, encode 1.3, tick 0.9
+1793456261962 [INFO] horizon_android::game::integrated: Saving and pausing game...
+1793456262418 [INFO] horizon_android::game: Horizon: slow frame 283.9 ms, cpu 67.3 ms (1 ticks): renderer 5.0, submit 2.1, encode 1.6
+1793456263497 [INFO] horizon_android::game: Horizon: slow frame 362.0 ms, cpu 90.3 ms (1 ticks): renderer 5.0, submit 2.1, encode 1.5, hud 1.3
+1793456264411 [INFO] horizon_android::game: Horizon: slow frame 267.2 ms, cpu 60.0 ms (1 ticks): renderer 3.7, submit 1.4, encode 1.2
+1793456265504 [INFO] horizon_android::game: Horizon: slow frame 358.0 ms, cpu 86.1 ms (1 ticks): renderer 5.9, submit 2.4, encode 1.8
+1793456266461 [INFO] horizon_android::game: Horizon: slow frame 335.6 ms, cpu 77.7 ms (1 ticks): renderer 8.1, submit 3.1, encode 2.5, entity_geometry 0.6
+1793456267427 [INFO] horizon_android::game: Horizon: slow frame 291.3 ms, cpu 70.2 ms (1 ticks): renderer 5.5, submit 2.0, encode 1.8
+1793456268392 [INFO] horizon_android::game: Horizon: slow frame 246.7 ms, cpu 54.3 ms (1 ticks): renderer 3.7, encode 1.3, submit 1.2
+1793456269459 [INFO] horizon_android::game: Horizon: slow frame 324.0 ms, cpu 77.8 ms (1 ticks): renderer 4.1, submit 1.7, encode 1.3, hud 0.7
+1793456270413 [INFO] horizon_android::game: Horizon: slow frame 272.8 ms, cpu 64.3 ms (1 ticks): renderer 4.7, submit 1.7, encode 1.5
+1793456271012 [INFO] horizon_android::game::integrated: Changing view distance to 16, from 8
+1793456271013 [INFO] horizon_android::game::integrated: Changing simulation distance to 12, from 6
+1793456271102 [INFO] horizon_android::game::levels: Horizon: slow tick 88.9 ms, cpu 82.6 ms (275 mobs): tick_blocks 50.1, tick_mobs 20.8, tick_lan 14.9/12.8, lan_chunks 12.4/10.4, tick_block_entities 0.8/0.3
+1793456271398 [INFO] horizon_android::game: Horizon: slow frame 255.4 ms, cpu 46.5 ms (1 ticks): renderer 2.8, encode 0.9, submit 0.9, tick 0.7
+1793456271578 [INFO] horizon_android::game::levels: Horizon: slow tick 63.9 ms, cpu 30.9 ms (280 mobs): tick_blocks 24.0/13.1, tick_lan 21.3/3.9, tick_mobs 14.1/11.4, lan_chunks 7.1/1.2, streaming 2.0, tick_sculk_entities 1.7/0.4, tick_falling 1.2/0.5
+1793456271729 [INFO] horizon_android::game::levels: Horizon: slow tick 113.8 ms, cpu 43.4 ms (279 mobs): tick_blocks 43.3/7.8, tick_mobs 36.2/20.6, streaming 17.0/3.2, tick_lan 11.5/8.2, tick_falling 5.9/2.6, entity_portals 4.1/0.8, tick_sculk_entities 2.0/0.9, lan_chunks 1.9/1.2, tick_particles 0.6/0.5, tick_block_entities 0.5
+1793456271849 [INFO] horizon_android::game::levels: Horizon: slow tick 118.7 ms, cpu 51.5 ms (279 mobs): tick_mobs 47.5/20.6, tick_lan 25.5/9.5, tick_blocks 22.3/9.3, tick_block_entities 7.0/4.0, lan_chunks 6.0/2.4, entity_portals 4.6/0.6, streaming 3.7/2.7, tick_falling 2.3/1.4, tick_sculk_blocks 2.3/1.1, tick_sculk_entities 1.3/0.8
+1793456271964 [INFO] horizon_android::game::levels: Horizon: slow tick 114.6 ms, cpu 48.5 ms (279 mobs): tick_mobs 59.9/21.2, tick_blocks 22.2/11.2, tick_lan 21.7/8.7, lan_chunks 13.4/2.1, streaming 3.3/2.5, tick_falling 2.0/1.7, postprocess_chunks 1.5/0.3, tick_block_entities 1.0/0.6, lt_columns 1.0/0.4, entity_portals 0.9/0.7, tick_sculk_entities 0.7
+1793456272122 [INFO] horizon_android::game: Horizon: slow frame 72.0 ms, cpu 28.0 ms (1 ticks): occlusion 35.7/0.1, update_world 11.7/6.5, renderer 10.5/9.3, entity_geometry 8.0, tick 6.2/3.0, encode 4.8, upload 2.0, submit 1.6, streaming 1.4/1.2, upload_vertex_stage 1.0
+1793456272483 [INFO] horizon_android::game::levels: Horizon: slow tick 67.8 ms, cpu 43.3 ms (278 mobs): tick_mobs 37.1/24.8, tick_blocks 13.0/9.4, tick_lan 10.6/5.4, streaming 5.7/3.5, postprocess_chunks 3.7/1.0, entity_portals 1.2/0.7, lan_chunks 1.1
+1793456272573 [INFO] horizon_android::game::levels: Horizon: slow tick 57.6 ms, cpu 43.7 ms (281 mobs): tick_mobs 28.4/21.1, tick_blocks 14.2/10.8, tick_lan 9.2/7.2, streaming 3.0, lan_chunks 2.4/1.1, postprocess_chunks 1.6/1.0, tick_sculk_entities 1.3/0.8, tick_falling 0.6, entity_portals 0.5, tick_block_entities 0.5
+1793456272584 [INFO] horizon_android::game: Horizon: slow frame 415.7 ms, cpu 63.6 ms (1 ticks): update_world 6.2/4.9, tick 4.8/3.0, renderer 4.3/3.3, entity_geometry 4.1, upload 2.0, encode 1.3, upload_vertex_stage 1.1, submit 1.0/0.6, hud 0.8, streaming 0.7
+1793456272682 [INFO] horizon_android::game::levels: Horizon: slow tick 108.6 ms, cpu 66.0 ms (286 mobs): streaming 59.6/28.2, lt_block 35.9/19.6, tick_mobs 18.7/15.7, tick_blocks 13.4/8.3, tick_lan 12.2/9.1, lt_columns 11.3/2.4, lt_sky 6.6/2.1, lt_sources 5.9/1.5, lan_chunks 5.6/3.6, spawn_loaded_entities 1.8, tick_sculk_entities 0.6, entity_portals 0.6
+1793456273026 [INFO] horizon_android::game::levels: Horizon: slow tick 72.8 ms, cpu 39.8 ms (288 mobs): tick_blocks 29.2/6.8, tick_mobs 23.2/17.1, tick_lan 6.6, streaming 5.8/2.2, spawn_loaded_entities 1.6, postprocess_chunks 1.4/1.0, tick_falling 1.4, entity_portals 0.9/0.7, tick_sculk_entities 0.8, tick_block_entities 0.6
+1793456273219 [INFO] horizon_android::game::levels: Horizon: slow tick 55.7 ms, cpu 38.6 ms (292 mobs): tick_lan 22.7/8.1, tick_mobs 16.7, lan_chunks 16.2/2.3, streaming 8.5/6.3, tick_blocks 7.8/6.4, tick_block_entities 3.5, postprocess_chunks 1.2, tick_sculk_blocks 0.9/0.8, tick_sculk_entities 0.8, entity_portals 0.6
+1793456273466 [INFO] horizon_android::game: Horizon: slow frame 325.7 ms, cpu 51.3 ms (1 ticks): update_world 11.6/2.1, tick 3.6/2.8, renderer 3.5/3.0, streaming 2.8/0.8, encode 1.2, entity_geometry 1.0, submit 1.0/0.7
+1793456273599 [INFO] horizon_android::game::levels: Horizon: slow tick 85.8 ms, cpu 38.0 ms (290 mobs): tick_mobs 40.4/17.5, tick_lan 24.8/7.3, tick_blocks 17.7/10.6, lan_chunks 6.3/1.7, streaming 5.3/3.4
+1793456273662 [INFO] horizon_android::game::levels: Horizon: slow tick 63.1 ms, cpu 34.3 ms (295 mobs): tick_mobs 24.5/13.4, tick_lan 16.5/10.7, tick_blocks 11.4/3.7, lan_chunks 5.3/4.1, tick_sculk_entities 4.0/1.2, streaming 1.5, entity_portals 1.0/0.6, spawn_loaded_entities 0.9, tick_particles 0.8/0.6, tick_maps 0.7/0.0, tick_block_entities 0.7
+1793456273742 [INFO] horizon_android::game: Horizon: slow frame 56.2 ms, cpu 21.9 ms (0 ticks): renderer 32.2/10.8, entity_geometry 21.4/7.0, submit 17.9/3.0, encode 7.9/4.2, update_world 2.2/1.7, hud 1.1/0.7, upload 0.8, visibility 0.5
+1793456273766 [INFO] horizon_android::game::levels: Horizon: slow tick 58.5 ms, cpu 44.0 ms (297 mobs): tick_mobs 23.7, tick_lan 9.2/7.4, tick_particles 9.1/0.4, tick_blocks 7.5/6.5, tick_block_entities 4.6/4.0, streaming 1.2, lan_chunks 1.0, tick_sculk_blocks 0.8, tick_sculk_entities 0.7, entity_portals 0.6
+1793456273901 [INFO] horizon_android::game::levels: Horizon: slow tick 53.6 ms, cpu 47.4 ms (305 mobs): tick_mobs 18.3, tick_lan 9.3/8.0, tick_blocks 6.8/5.8, streaming 4.6, postprocess_chunks 1.6, lan_chunks 1.6, lt_columns 1.2, tick_sculk_entities 1.0/0.8, lt_sky 1.0, entity_portals 0.7/0.6, lt_block 0.7, tick_block_entities 0.7, lt_sources 0.6
+1793456273958 [INFO] horizon_android::game::levels: Horizon: slow tick 53.3 ms, cpu 40.3 ms (305 mobs): tick_mobs 26.8/19.7, tick_lan 13.3/8.7, tick_blocks 5.9, lan_chunks 4.0/2.1, streaming 1.7, entity_portals 1.7/0.6, postprocess_chunks 1.5, tick_sculk_entities 0.7, tick_block_entities 0.6
+1793456274009 [INFO] horizon_android::game::levels: Horizon: slow tick 50.7 ms, cpu 25.5 ms (306 mobs): tick_mobs 22.9/6.9, tick_blocks 9.0/6.2, streaming 8.9/3.4, lt_sky 5.5/0.2, lt_sources 5.5/0.2, tick_lan 3.9/3.0, postprocess_chunks 1.7, lt_block 1.6, lan_chunks 1.3/0.5
+1793456274476 [INFO] horizon_android::game: Horizon: slow frame 335.0 ms, cpu 62.9 ms (1 ticks): renderer 3.6, tick 2.0/1.3, encode 1.6, update_world 1.4, upload 1.2, entity_geometry 1.0, submit 0.7, upload_vertex_stage 0.7
+1793456274519 [INFO] horizon_android::game::levels: Horizon: slow tick 53.9 ms, cpu 40.4 ms (318 mobs): tick_mobs 26.7/22.3, tick_lan 15.4/6.7, tick_blocks 6.8, streaming 1.8, tick_sculk_entities 0.8, tick_block_entities 0.7/0.6, entity_portals 0.7
+1793456274574 [INFO] horizon_android::game::levels: Horizon: slow tick 55.0 ms, cpu 40.4 ms (318 mobs): tick_mobs 23.0/18.2, tick_lan 14.2/6.6, tick_blocks 11.0, streaming 2.9/2.1, lt_block 1.0/0.5, entity_portals 0.7, tick_sculk_entities 0.7, tick_block_entities 0.6
+1793456274825 [INFO] horizon_android::game::levels: Horizon: slow tick 54.3 ms, cpu 49.8 ms (317 mobs): tick_mobs 17.4, streaming 12.3, tick_blocks 10.3, tick_lan 8.8/7.4, tick_sculk_entities 2.1/1.0, lan_chunks 1.9/0.8, entity_portals 1.0/0.6, postprocess_chunks 0.7, tick_block_entities 0.6
+1793456274920 [INFO] horizon_android::game::levels: Horizon: slow tick 93.9 ms, cpu 86.1 ms (317 mobs): tick_lan 48.9, lan_chunks 43.2, tick_mobs 17.6, streaming 13.9, tick_blocks 8.3/6.3, postprocess_chunks 2.1, lt_columns 1.0, tick_sculk_entities 0.8, tick_block_entities 0.7, entity_portals 0.6
+1793456275127 [INFO] horizon_android::game::levels: Horizon: slow tick 58.4 ms, cpu 43.1 ms (321 mobs): tick_mobs 24.3/17.6, streaming 23.7/18.3, tick_blocks 12.5/7.1, tick_lan 9.2/8.2, postprocess_chunks 2.8, lan_chunks 2.3/1.7, tick_sculk_entities 0.9, tick_block_entities 0.7, entity_portals 0.7
+1793456275187 [INFO] horizon_android::game::levels: Horizon: slow tick 58.8 ms, cpu 44.7 ms (321 mobs): tick_mobs 27.1/16.9, tick_lan 8.2, streaming 6.2/5.3, tick_blocks 5.7, postprocess_chunks 3.4, lan_chunks 1.6, tick_sculk_entities 1.6/1.0, tick_block_entities 0.7, entity_portals 0.6
+1793456275364 [INFO] horizon_android::game: Horizon: slow frame 210.4 ms, cpu 40.9 ms (1 ticks): renderer 3.5, tick 1.4, encode 1.3, entity_geometry 1.1, submit 0.8, update_world 0.5
+1793456275388 [INFO] horizon_android::game::levels: Horizon: slow tick 65.3 ms, cpu 57.2 ms (321 mobs): tick_mobs 22.7/16.3, streaming 22.2, tick_lan 8.3, tick_blocks 5.8, tick_block_entities 2.1/0.8, lan_chunks 1.9, postprocess_chunks 1.3, tick_sculk_entities 1.0, lt_columns 0.9, entity_portals 0.6
+1793456275473 [INFO] horizon_android::game::levels: Horizon: slow tick 84.5 ms, cpu 46.3 ms (320 mobs): tick_mobs 28.7/16.8, tick_blocks 20.8/7.0, tick_lan 15.5/9.7, streaming 10.3/5.1, lan_chunks 7.4/2.9, postprocess_chunks 5.9/4.3, tick_sculk_entities 0.8, tick_block_entities 0.8, entity_portals 0.6
+1793456275595 [INFO] horizon_android::game::levels: Horizon: slow tick 62.9 ms, cpu 44.1 ms (319 mobs): tick_mobs 26.3/17.8, tick_lan 23.6/17.1, lan_chunks 15.8/10.0, tick_blocks 7.0/4.8, tick_sculk_entities 2.2/1.0, tick_block_entities 1.2/0.9, postprocess_chunks 0.9/0.8, entity_portals 0.6, streaming 0.5
+1793456275653 [INFO] horizon_android::game::levels: Horizon: slow tick 57.2 ms, cpu 40.1 ms (318 mobs): streaming 27.6/18.2, tick_mobs 13.5/9.6, lt_block 11.6/4.9, tick_blocks 8.9/7.0, tick_lan 4.9/3.2, lan_chunks 0.9/0.3, postprocess_chunks 0.8/0.6, lt_columns 0.6
+1793456275696 [INFO] horizon_android::game: Horizon: slow frame 73.8 ms, cpu 36.7 ms (0 ticks): update_world 49.7/19.9, streaming 46.9/17.6, renderer 16.6/9.8, lt_block 15.1/11.5, entity_geometry 7.6/5.7, encode 7.4/4.4, submit 4.7/1.8, lt_columns 2.3/1.5, hud 1.3/0.5, lt_sky 1.1/0.5, upload 0.7, visibility 0.6
+1793456275829 [INFO] horizon_android::game::levels: Horizon: slow tick 61.9 ms, cpu 41.8 ms (320 mobs): tick_mobs 20.3, streaming 19.3/3.1, tick_blocks 10.7/8.5, tick_lan 8.9/7.8, postprocess_chunks 2.5, lan_chunks 2.1/1.1, tick_sculk_entities 0.9, tick_block_entities 0.7, entity_portals 0.5
+1793456276027 [INFO] horizon_android::game::levels: Horizon: slow tick 63.5 ms, cpu 59.9 ms (323 mobs): tick_mobs 21.4, streaming 18.4, tick_lan 9.1, tick_blocks 6.2, postprocess_chunks 5.0/3.8, lan_chunks 2.4, tick_sculk_entities 1.1/0.9, tick_block_entities 0.7, entity_portals 0.6
+1793456276175 [INFO] horizon_android::game::levels: Horizon: slow tick 51.7 ms, cpu 48.2 ms (323 mobs): tick_mobs 19.2/16.2, streaming 12.2, tick_lan 9.3, tick_blocks 6.1, lan_chunks 2.7, postprocess_chunks 1.4, tick_sculk_entities 0.9, tick_block_entities 0.8, entity_portals 0.7
+1793456276238 [INFO] horizon_android::game::levels: Horizon: slow tick 63.2 ms, cpu 62.0 ms (325 mobs): tick_mobs 17.7, streaming 15.2, tick_lan 9.5, tick_blocks 6.0, postprocess_chunks 4.6, tick_block_entities 4.2, lan_chunks 3.4, tick_sculk_blocks 1.0, tick_sculk_entities 0.8, entity_portals 0.6
+1793456276341 [INFO] horizon_android::game::levels: Horizon: slow tick 58.0 ms, cpu 55.6 ms (325 mobs): tick_mobs 16.4, streaming 16.2/14.3, tick_lan 10.0, tick_blocks 8.3, lan_chunks 3.8, postprocess_chunks 2.3, tick_sculk_entities 0.8, tick_block_entities 0.7, entity_portals 0.5
+1793456276392 [INFO] horizon_android::game: Horizon: slow frame 241.6 ms, cpu 46.7 ms (1 ticks): renderer 3.5, tick 2.7, update_world 2.6, upload 2.0, encode 1.5, entity_geometry 1.1, upload_vertex_stage 1.0, submit 0.5
+1793456276459 [INFO] horizon_android::game::levels: Horizon: slow tick 72.6 ms, cpu 48.1 ms (325 mobs): tick_blocks 22.3/10.3, tick_mobs 20.4/15.7, tick_lan 13.5/10.6, streaming 5.7, postprocess_chunks 4.4/2.7, lan_chunks 3.9, tick_sculk_entities 1.3/1.0, tick_block_entities 1.1/0.8, entity_portals 0.5
+1793456276514 [INFO] horizon_android::game::levels: Horizon: slow tick 54.9 ms, cpu 42.3 ms (323 mobs): tick_mobs 18.4/16.3, tick_lan 14.4/9.9, tick_blocks 11.5/7.1, lan_chunks 8.0/3.6, streaming 5.0, postprocess_chunks 2.3/1.1, tick_sculk_entities 1.0, entity_portals 0.7, tick_block_entities 0.7
+1793456276568 [INFO] horizon_android::game::levels: Horizon: slow tick 53.0 ms, cpu 49.9 ms (324 mobs): tick_mobs 17.9, tick_lan 17.5, lan_chunks 10.6, tick_blocks 5.7, streaming 5.6/4.7, postprocess_chunks 2.1, tick_block_entities 1.3/0.9, tick_sculk_entities 1.2/1.0, entity_portals 0.6
+1793456276624 [INFO] horizon_android::game::levels: Horizon: slow tick 55.9 ms, cpu 43.8 ms (324 mobs): tick_mobs 17.9, tick_lan 9.8/8.5, tick_blocks 9.5, postprocess_chunks 7.4/1.0, streaming 5.3/4.6, lan_chunks 2.1/1.6, tick_sculk_entities 0.9, entity_portals 0.8/0.6, tick_block_entities 0.7, tick_hand 0.6/0.1
+1793456276688 [INFO] horizon_android::game::levels: Horizon: slow tick 63.9 ms, cpu 39.2 ms (324 mobs): tick_mobs 37.1/17.3, tick_blocks 10.1/6.4, tick_lan 8.5, streaming 3.6, lan_chunks 1.1, entity_portals 1.0/0.7, lt_columns 1.0/0.8, tick_sculk_entities 1.0, postprocess_chunks 0.8, tick_block_entities 0.7
+1793456276759 [INFO] horizon_android::game::levels: Horizon: slow tick 69.8 ms, cpu 58.4 ms (328 mobs): streaming 19.0, tick_mobs 17.7, tick_lan 9.2, tick_blocks 8.7/5.8, entity_portals 6.1/0.8, postprocess_chunks 2.0, lan_chunks 1.6, tick_sculk_entities 1.3/1.0, tick_block_entities 0.7
+1793456276847 [INFO] horizon_android::game::levels: Horizon: slow tick 87.5 ms, cpu 60.1 ms (328 mobs): tick_mobs 31.3/18.9, tick_lan 16.2/8.1, streaming 11.8, tick_blocks 11.2/6.6, tick_block_entity_anims 6.2, tick_block_entities 5.8/4.4, lan_chunks 5.3/0.6, entity_portals 1.1/0.7, postprocess_chunks 1.0, tick_sculk_blocks 0.9, tick_sculk_entities 0.8
+1793456277015 [INFO] horizon_android::game: Horizon: slow frame 74.6 ms, cpu 24.9 ms (1 ticks): update_world 36.8/5.1, streaming 33.2/4.0, renderer 21.1/10.8, submit 8.8/1.7, tick 8.7/3.1, entity_geometry 8.2/4.9, encode 7.2/5.0, lt_block 4.4/1.6, lt_columns 2.6/0.9, visibility 0.6, lt_sources 0.6/0.4
+1793456277076 [INFO] horizon_android::game: Horizon: slow frame 59.3 ms, cpu 22.6 ms (1 ticks): update_world 36.7/4.8, streaming 26.1/1.4, renderer 12.2/8.9, tick 5.3/3.3, entity_geometry 4.5, encode 4.2, upload 2.2/2.0, submit 1.7/1.1, upload_vertex_stage 1.0, lt_columns 0.7/0.5, visibility 0.6
+1793456277080 [INFO] horizon_android::game::levels: Horizon: slow tick 65.6 ms, cpu 34.8 ms (342 mobs): tick_blocks 32.4/11.9, streaming 25.8/17.3, tick_mobs 16.0/11.4, tick_lan 2.9, postprocess_chunks 1.6
+1793456277215 [INFO] horizon_android::game::levels: Horizon: slow tick 52.0 ms, cpu 42.1 ms (343 mobs): tick_mobs 18.1, streaming 12.7/10.1, tick_blocks 9.8/7.1, tick_lan 7.2, tick_block_entities 4.9, postprocess_chunks 4.6/2.3, tick_sculk_entities 3.1/1.2, tick_sculk_blocks 1.1, entity_portals 0.7
+1793456277370 [INFO] horizon_android::game: Horizon: slow frame 233.3 ms, cpu 42.8 ms (1 ticks): renderer 5.3/4.5, submit 1.8/1.2, encode 1.6, update_world 1.0, entity_geometry 1.0, tick 0.9, upload 0.6
+1793456277415 [INFO] horizon_android::game::levels: Horizon: slow tick 50.1 ms, cpu 37.2 ms (347 mobs): tick_mobs 24.8/16.8, streaming 8.7, tick_blocks 8.0/6.8, tick_lan 6.1/2.8
+1793456277624 [INFO] horizon_android::game::levels: Horizon: slow tick 61.4 ms, cpu 42.7 ms (355 mobs): tick_mobs 30.4/21.2, tick_lan 9.4/7.5, tick_blocks 8.0/6.6, streaming 5.1, postprocess_chunks 3.1/2.7, tick_block_entities 1.3/0.9, entity_portals 1.2/0.7, tick_sculk_entities 0.9, lt_columns 0.6
+1793456278488 [INFO] horizon_android::game: Horizon: slow frame 340.7 ms, cpu 84.2 ms (1 ticks): renderer 3.9, encode 1.5, tick 1.5, entity_geometry 1.0, submit 0.8
+1793456279451 [INFO] horizon_android::game: Horizon: slow frame 308.2 ms, cpu 75.4 ms (1 ticks): renderer 4.7, encode 1.7, tick 1.5, entity_geometry 1.2, submit 1.2
+1793456280324 [INFO] horizon_android::game: Horizon: slow frame 190.8 ms, cpu 42.3 ms (1 ticks): renderer 3.6, tick 1.4, encode 1.3, submit 1.0, entity_geometry 0.8, update_world 0.7
+1793456280862 [INFO] horizon_android::game::integrated: Saving and pausing game...
+1793456281435 [INFO] horizon_android::game: Horizon: slow frame 284.1 ms, cpu 60.2 ms (1 ticks): renderer 5.2/4.5, encode 2.0/1.6, submit 1.4, entity_geometry 1.0
+1793456282751 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456282752 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x3b5b84ce
+1793456283051 [INFO] horizon_android::game: Horizon: slow frame 305.6 ms, cpu 82.4 ms (1 ticks): renderer 19.2, submit 13.7, encode 0.7
+1793456283458 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Vulkan, IntegratedGpu)
+1793456283458 [INFO] horizon_client_render::gfx: Horizon renderer: requesting the device (driver Qualcomm Technologies Inc. Adreno Vulkan Driver Driver Build: 0c393b63cf, I94e2bd5684, 1746191168
+Date: 05/02/25
+Compiler Version: EV031.36.08.33
+Driver Branch:) with features [TEXTURE_FORMAT_16BIT_NORM | TEXTURE_ADAPTER_SPECIFIC_FORMAT_FEATURES | TIMESTAMP_QUERY_INSIDE_ENCODERS | TIMESTAMP_QUERY | RG11B10UFLOAT_RENDERABLE | FLOAT32_BLENDABLE] and the adapter's limits (buffers up to 1073741824 bytes, storage bindings up to 134217728 bytes, 2048 texture layers)
+1793456283495 [INFO] horizon_client_render::gfx: Horizon renderer: device ready; configuring the surface (2340x1080 Rgba8Unorm, Mailbox)
+1793456283508 [INFO] horizon_client_render::gfx: Horizon renderer: HDR output HDR10 (PQ)
+1793456283508 [INFO] horizon_client_render::gfx: Horizon renderer: creating the pipelines
+1793456284412 [INFO] horizon_client_render::gfx: Horizon renderer: pipelines ready (multi-draw off, occlusion culling off, GPU timer on)
+1793456284418 [INFO] horizon_client_render::gfx: Horizon renderer: acquiring the first frame
+1793456284422 [INFO] horizon_client_render::gfx: Horizon renderer: submitting the first frame
+1793456284425 [INFO] horizon_client_render::gfx: Horizon renderer: presenting the first frame
+1793456286229 [INFO] horizon_client_render::audio: Horizon: audio output default (44100 Hz, 2 channels, f32)
+1793456286543 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793456286543 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xcd002f70

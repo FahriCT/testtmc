@@ -1,0 +1,22 @@
+{
+  "abi": "aarch64",
+  "clean_exit": false,
+  "context": {},
+  "device": {},
+  "dropped_log_lines": 0,
+  "memory": {
+    "Threads": "39",
+    "VmHWM": "969700 kB",
+    "VmPeak": "21038792 kB",
+    "VmRSS": "370520 kB",
+    "VmSize": "19481564 kB"
+  },
+  "phase": "launcher",
+  "pid": 21791,
+  "schema": 1,
+  "source_commit": "86e881b6940f",
+  "source_dirty": "true",
+  "start_ms": 1793456162103,
+  "updated_ms": 1793456340196,
+  "version": "0.7.6"
+}

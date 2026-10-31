@@ -1,0 +1,118 @@
+1793452112216 [WARN] jni::wrapper::objects::global_ref: Dropping a GlobalRef in a detached thread. Fix your code if this message appears frequently (see the GlobalRef docs).
+1793452112694 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Vulkan, IntegratedGpu)
+1793452112697 [INFO] horizon_client_render::gfx: Horizon renderer: requesting the device (driver Qualcomm Technologies Inc. Adreno Vulkan Driver Driver Build: 0c393b63cf, I94e2bd5684, 1746191168
+Date: 05/02/25
+Compiler Version: EV031.36.08.33
+Driver Branch:) with features [TEXTURE_FORMAT_16BIT_NORM | TEXTURE_ADAPTER_SPECIFIC_FORMAT_FEATURES | TIMESTAMP_QUERY_INSIDE_ENCODERS | TIMESTAMP_QUERY | RG11B10UFLOAT_RENDERABLE | FLOAT32_BLENDABLE] and the adapter's limits (buffers up to 1073741824 bytes, storage bindings up to 134217728 bytes, 2048 texture layers)
+1793452112817 [INFO] horizon_client_render::gfx: Horizon renderer: device ready; configuring the surface (2340x1080 Rgba8Unorm, Mailbox)
+1793452112828 [INFO] horizon_client_render::gfx: Horizon renderer: HDR output HDR10 (PQ)
+1793452112828 [INFO] horizon_client_render::gfx: Horizon renderer: creating the pipelines
+1793452114059 [INFO] horizon_client_render::gfx: Horizon renderer: pipelines ready (multi-draw off, occlusion culling off, GPU timer on)
+1793452114072 [INFO] horizon_client_render::gfx: Horizon renderer: acquiring the first frame
+1793452114076 [INFO] horizon_client_render::gfx: Horizon renderer: submitting the first frame
+1793452114078 [INFO] horizon_client_render::gfx: Horizon renderer: presenting the first frame
+1793452115006 [INFO] horizon_client_render::audio: Horizon: audio output default (44100 Hz, 2 channels, f32)
+1793452115246 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452115247 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xcd002f70
+1793452121858 [INFO] wgpu_hal::gles::egl: EGL says it can present to the window but not natively
+1793452121894 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Gl, IntegratedGpu)
+1793452121894 [INFO] horizon_client_render::gfx: Horizon renderer: requesting the device (driver OpenGL ES 3.2 V@0615.98 (GIT@0c393b63cf, I94e2bd5684, 1746191168) (Date:05/02/25)) with features [TEXTURE_FORMAT_16BIT_NORM | TEXTURE_ADAPTER_SPECIFIC_FORMAT_FEATURES] and the adapter's limits (buffers up to 2147483647 bytes, storage bindings up to 134217728 bytes, 2048 texture layers)
+1793452121896 [INFO] horizon_client_render::gfx: Horizon renderer: device ready; configuring the surface (2340x1080 Bgra8Unorm, Fifo)
+1793452121899 [INFO] horizon_client_render::gfx: Horizon renderer: HDR output not offered by this display
+1793452121899 [INFO] horizon_client_render::gfx: Horizon renderer: creating the pipelines
+1793452121903 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Terrain solid (vs_terrain/fs_solid)
+1793452121937 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Terrain translucent (vs_terrain/fs_translucent)
+1793452121960 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Sky (vs_sky/fs_sky)
+1793452121996 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Dark disc (vs_sky/fs_dark_disc)
+1793452122007 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Block outline (vs_line/fs_line)
+1793452122022 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Block outline secondary (vs_line/fs_line)
+1793452122022 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Debug lines (vs_debug_line/fs_debug_line)
+1793452122043 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Debug lines on top (vs_debug_line/fs_debug_line)
+1793452122043 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES sprite textures
+1793452122056 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES HUD renderer
+1793452122408 [ERROR] wgpu::backend::wgpu_core: Shader translation error for stage ShaderStages(FRAGMENT): WGSL `textureLoad` from depth textures is not supported in GLSL
+1793452122408 [ERROR] wgpu::backend::wgpu_core: Please report it to [redacted]
+1793452122408 [WARN] horizon_client_render::gfx::world_post: Horizon renderer: temporal anti-aliasing unavailable (Validation Error
+
+Caused by:
+  In Device::create_render_pipeline, label = 'Horizon TAA'
+    Internal error in ShaderStages(FRAGMENT) shader: WGSL `textureLoad` from depth textures is not supported in GLSL
+)
+1793452122478 [INFO] horizon_client_render::gfx: Horizon renderer: pipelines ready (multi-draw off, occlusion culling off, GPU timer off)
+1793452122480 [INFO] horizon_client_render::gfx: Horizon renderer: acquiring the first frame
+1793452122482 [INFO] horizon_client_render::gfx: Horizon renderer: submitting the first frame
+1793452122490 [INFO] horizon_client_render::gfx: Horizon renderer: presenting the first frame
+1793452122494 [INFO] horizon_android::game: Horizon: loading screen shown after 684 ms
+1793452122599 [INFO] horizon_android::game: Horizon: UI bundle ready after 789 ms
+1793452122615 [INFO] horizon_android::game: Horizon: loading the title artwork after 805 ms
+1793452122819 [INFO] horizon_client_render::audio: Horizon: audio output default (44100 Hz, 2 channels, f32)
+1793452123258 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Gl, IntegratedGpu)
+1793452123264 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Terrain solid (vs_terrain/fs_solid)
+1793452123272 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Terrain translucent (vs_terrain/fs_translucent)
+1793452123275 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Sky (vs_sky/fs_sky)
+1793452123278 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Dark disc (vs_sky/fs_dark_disc)
+1793452123280 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Block outline (vs_line/fs_line)
+1793452123282 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Block outline secondary (vs_line/fs_line)
+1793452123284 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Debug lines (vs_debug_line/fs_debug_line)
+1793452123286 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Debug lines on top (vs_debug_line/fs_debug_line)
+1793452123286 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES sprite textures
+1793452123360 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES HUD renderer
+1793452123397 [ERROR] wgpu::backend::wgpu_core: Shader translation error for stage ShaderStages(FRAGMENT): WGSL `textureLoad` from depth textures is not supported in GLSL
+1793452123397 [ERROR] wgpu::backend::wgpu_core: Please report it to [redacted]
+1793452123397 [WARN] horizon_client_render::gfx::world_post: Horizon renderer: temporal anti-aliasing unavailable (Validation Error
+
+Caused by:
+  In Device::create_render_pipeline, label = 'Horizon TAA'
+    Internal error in ShaderStages(FRAGMENT) shader: WGSL `textureLoad` from depth textures is not supported in GLSL
+)
+1793452124400 [INFO] horizon_android::game: load assets: 2.59s
+1793452125229 [INFO] horizon_android::game: load facts: 3.42s
+1793452125229 [INFO] horizon_android::game: load biomes+env: 3.42s
+1793452126387 [INFO] horizon_android::game: load pack tables: 4.58s
+1793452126801 [INFO] horizon_android::game: load collision+motion: 4.99s
+1793452126802 [INFO] horizon_android::game: Horizon: core-ready after 4992 ms
+1793452127114 [INFO] horizon_android::game: Horizon: handoff CPU resources prepared on worker in 312 ms
+1793452127338 [INFO] horizon_client_render::gfx: Horizon renderer: Adreno (TM) 730 (Gl, IntegratedGpu)
+1793452127350 [INFO] horizon_client_render::gfx: Horizon: 1291 block textures in 6 arrays
+1793452127350 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Terrain solid (vs_terrain/fs_solid)
+1793452127388 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Terrain translucent (vs_terrain/fs_translucent)
+1793452127411 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Sky (vs_sky/fs_sky)
+1793452127413 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Dark disc (vs_sky/fs_dark_disc)
+1793452127415 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Block outline (vs_line/fs_line)
+1793452127416 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Block outline secondary (vs_line/fs_line)
+1793452127416 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Debug lines (vs_debug_line/fs_debug_line)
+1793452127418 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES pipeline Debug lines on top (vs_debug_line/fs_debug_line)
+1793452127418 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES sprite textures
+1793452128292 [INFO] horizon_android::game: load items: 6.48s
+1793452128500 [INFO] horizon_client_render::gfx: Horizon renderer: creating GLES HUD renderer
+1793452128556 [ERROR] wgpu::backend::wgpu_core: Shader translation error for stage ShaderStages(FRAGMENT): WGSL `textureLoad` from depth textures is not supported in GLSL
+1793452128556 [ERROR] wgpu::backend::wgpu_core: Please report it to [redacted]
+1793452128556 [WARN] horizon_client_render::gfx::world_post: Horizon renderer: temporal anti-aliasing unavailable (Validation Error
+
+Caused by:
+  In Device::create_render_pipeline, label = 'Horizon TAA'
+    Internal error in ShaderStages(FRAGMENT) shader: WGSL `textureLoad` from depth textures is not supported in GLSL
+)
+1793452128572 [INFO] horizon_android::game: Horizon: world renderer ready after 6762 ms
+1793452128623 [INFO] horizon_android::game: Horizon: startup handoff 1286 ms (renderer 1235 ms, start_game 49 ms)
+1793452128855 [INFO] horizon_android::game: Horizon: resources loaded in 7.0s; 35723 block states, 1658 items, 67 biomes; 6 worker threads
+1793452129694 [INFO] horizon_android::game: Horizon: first frame after 1117 ms
+1793452130803 [INFO] horizon_android::game: Horizon: rest-ready after 8993 ms
+1793452130923 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452130924 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xcd002f70
+1793452131191 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452131191 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x840f0da5
+1793452131878 [INFO] horizon_client::vanillagen: Horizon: worldgen data loaded in 946.605885ms
+1793452133559 [INFO] horizon_android::game::growth: Horizon: live features ready in 96.296302ms
+1793452135615 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452135615 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x451c5794
+1793452140655 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452140655 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x34cd2886
+1793452140659 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452140659 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x2d71a8cd
+1793452141406 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452141406 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xd5f9887f
+1793452141519 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452141519 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0x9151a972
+1793452145410 [INFO] symphonia_format_ogg::demuxer: starting new physical stream
+1793452145410 [INFO] symphonia_format_ogg::demuxer: selected vorbis mapper for stream with serial=0xc37ca348
